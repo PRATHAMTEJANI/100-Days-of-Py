@@ -26,4 +26,3 @@ def organize(folder_path):
                     break
 
 
-#nphn tspk ysqb tchv
