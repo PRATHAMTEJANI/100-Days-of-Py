@@ -6,9 +6,9 @@ from email.message import EmailMessage
 from datetime import datetime
 
 # ---------------- EMAIL CONFIG ----------------
-EMAIL = "arjuntejani369@gmail.com"
-APP_PASSWORD = "bvfd zvxc evci nzmt"  # Gmail App Password
-TO_EMAIL = "prathamtejani4@gmail.com"
+EMAIL = "your email brother!!"
+APP_PASSWORD = "2-Factor -> appLOCK 16-digits"  # Gmail App Password
+TO_EMAIL = "when you get pic's"
 
 # ---------------- CAMERA FUNCTION ----------------
 def capture_image():
